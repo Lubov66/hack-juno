@@ -53,7 +53,7 @@ The process is simple:
 
 1. Build something cool.
 2. Tweet about it and tak @HackJuno.
-3. Submit form the [form](HTTP://).
+3. Submit form the [form](http://).
 4. Get nominated by one of the DAO judges (just one has to like your application).
 5. Judges evaluate your project and vote.
 6. Rewards will paid out in batches by the Hack Juno SubDAO.
